@@ -1,2 +1,2 @@
 # First-Git-Contact
-Day One - learn Git
+Day One: learn Git
